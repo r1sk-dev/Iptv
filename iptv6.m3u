@@ -463,16 +463,10 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Хобби и увлечения", Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Хобби и увлечения", Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group-title="Хобби и увлечения", Охотник и рыболов HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикий" tvg-logo="" group-title="РАЗНОЕ",Дикий
+http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охотник и Рыболов HD" tvg-logo="" group-title="РАЗНОЕ",Охотник и Рыболов HD
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-id="rybalka" tvg-logo="https://iptvx.one/picons/rybalka.png" group-title="Неопределённые", Рыбалка
-#EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Неопределённые", Рыбалка и охота
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Хобби и увлечения", Диалоги о рыбалке
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="https://iptvx.one/picons/dikaya-oxota-hd.png" group-title="Хобби и увлечения", Дикая охота HD
-
 
 
 
