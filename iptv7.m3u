@@ -490,3 +490,10 @@ http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="" group-title="КИНО",НТВ HD (9)
 https://cdn.ntv.ru/ntv0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nano.ru@HD",Нано ТВ HD (576p)
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1 group-title="Развлечение",Nano
+http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="nano-tv" tvg-logo="http://ex.iptvin.ru/pic/2/Nano-220x220.png" logo="http://ex.iptvin.ru/pic/2/Nano-220x132-tr.png" channelid="260" group-title="Развлечение",Nano
+http://s1.tv-nano.com/Nano_rec/video.m3u8
