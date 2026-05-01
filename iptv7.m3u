@@ -16,8 +16,8 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="http://epg.one/img2/5kanal-ru.png" group-title="Общественные", Пятый канал
@@ -469,27 +469,11 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охотник и Рыболов HD" tvg-logo="" group-title="РАЗНОЕ",Охотник и Рыболов HD
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (1)
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (2)
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (3)
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="http://epg.it999.ru/img/2001.png" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (4)
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="http://epg.it999.ru/img/2001.png" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (5)
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="http://epg.it999.ru/img/2001.png" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (6)
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (7)
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="http://epg.it999.ru/img/2001.png" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD (8)
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="" group-title="КИНО",НТВ HD (9)
-https://cdn.ntv.ru/ntv0/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Nano.ru@HD",Нано ТВ HD (576p)
 http://s1.tv-nano.com/Nano_rec/index.m3u8
