@@ -170,26 +170,6 @@ http://87.76.32.36:8001/eurosport1hd
 http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="СПОРТ",Матч! Футбол 1
 http://193.25.8.59:8000/fut
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="СПОРТ",Матч! Футбол 1
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 1 HD" tvg-logo="" group-title="СПОРТ",Матч! Футбол 1 HD
-http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="СПОРТ",Матч! Футбол 2
-http://45.145.32.13:20440/match_football2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="СПОРТ",Матч! Футбол 2
-http://193.25.8.59:8000/fut
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="СПОРТ",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="СПОРТ",Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="СПОРТ",Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="СПОРТ",Матч! Футбол 3
-http://45.145.32.13:20440/match_football3/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://ex.iptvin.ru/pic/2/thumb-a90f62dc350615b3946789c0886a6698.png" group-title="СПОРТ",Матч! Футбол 3
-http://timeshift.arpinet.am/110/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="СПОРТ",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="СПОРТ",Матч! Футбол 3 HD
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! HD" tvg-logo="" group-title="СПОРТ",Матч! HD
