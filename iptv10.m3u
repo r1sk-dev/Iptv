@@ -142,24 +142,10 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета Азия" tvg-logo="" group-title="РАЗНОЕ",РТР Планета Азия
 https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета Азия" tvg-logo="" group-title="РАЗНОЕ",РТР Планета Азия
-http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета Азия" tvg-logo="" group-title="РАЗНОЕ",РТР Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета Евро" tvg-logo="" group-title="РАЗНОЕ",РТР Планета Евро
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета Европа" tvg-logo="" group-title="РАЗНОЕ",РТР Планета Европа
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета Европа" tvg-logo="" group-title="РАЗНОЕ",РТР Планета Европа
 http://5.57.74.130/RTRPlaneta/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета СНГ" tvg-logo="" group-title="РАЗНОЕ",РТР Планета СНГ
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета СНГ" tvg-logo="" group-title="РАЗНОЕ",РТР Планета СНГ
-https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета США" tvg-logo="" group-title="РАЗНОЕ",РТР Планета США
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Планета США" tvg-logo="" group-title="РАЗНОЕ",РТР Планета США
-http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
 
 
 
@@ -207,8 +193,6 @@ http://158.101.222.193:88/georgia_play.php?id=24techno
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Живая Планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Развлечение",Живая Планета
-http://188.113.190.15/89/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Развлечение",Первый космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 
