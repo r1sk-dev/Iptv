@@ -258,7 +258,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@SD",Карусель
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Кино и сериалы (Российские)" ,Победа
-http://93.84.115.174:10181/pobeda
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD",ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 
