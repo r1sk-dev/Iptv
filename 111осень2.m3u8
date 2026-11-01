@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Первый канал UHD
+#EXTGRP:новости
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/19241/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
+#EXTINF:-1 tvg-id="Tavriya.ru@SD" tvg-logo="https://i.imgur.com/gqung6i.png" group-title="General",Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://i.imgur.com/JLAvq8O.png" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36  group-title="Entertainment",ТВ3
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 HD
+http://stream.mcquack.net/136/index.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg" group-title="Undefined",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",ТВ Центр International (720p)
+#EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 group-title="General",5 Канал
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://i.imgur.com/0Tu5lte.png" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 group-title="General",Рен ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 group-title="General",РЕН ТВ International
+#EXTINF:-1 tvg-id="belarus1" tvg-logo="http://epg.one/img2/belarus1.png" group-title="Общественные" ,Беларусь 1 HD
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 group-title="General",5 Канал
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 group-title="Entertainment",ТНТ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" referrer="https://televizor24tochka.ru/",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные" ,НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные" ,НТВ HD
+#EXTINF:-1 group-title="Информационные", НТВ Мир (2)
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ UHD
+#EXTGRP:новости
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/19405/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ +2
+#EXTGRP:новости
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/713/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/subbota.png", Суббота (2)
+http://stream.mcquack.net/269/index.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные" ,Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://i.imgur.com/0Tu5lte.png" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Рен ТВ
+#EXTINF:-1 tvg-id="tro" tvg-logo="https://iptvx.one/picons/belros.png" group-title="Общественные" ,Союзный
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/960px-Russia-1.svg.png" tvg-id="Russia1.ru" tvg-chno="2" tvg-country="RU" group-title="Russia",Россия 1
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 UHD
+#EXTGRP:новости
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/19242/index.m3u8
+#EXTINF:-1 group-title="Информационные", Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/pobeda.png", Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" group-title="Animation;Kids",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:0 tvg-rec="3",Смайл ТВ HD
+#EXTGRP:детские
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2157/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС (2)
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 group-title="Family",СТС
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
+#EXTINF:-1 group-title="Познавательные", Красная линия (2)
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Музыкальные",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Муз ТВ
+http://stream.mcquack.net/86/index.m3u8
+#EXTINF:0 tvg-rec="3",МУЗ-ТВ orig
+#EXTGRP:HD Orig
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/9169/index.m3u8
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные" ,Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioShanson.ru@SD" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Music",Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="Music",Шансон ТВ (576p) [Geo-blocked]
+#EXTINF:-1 group-title="Кино и сериалы", .black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 1
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 2
+http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные" ,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="News",Мир 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Перец Int.
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png" group-title="Христианские" ,Союз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас (2)
+https://bonusspas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч! (3)
+http://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Страна (2)
+http://stream.mcquack.net/143/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Планета
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Боец
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Удар Udar (2)
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Премьер
+http://stream.mcquack.net/193/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (2)
+http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="General",Moldova 1 (1080p)
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 tvg-id="Moldova2.md@SD" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="General",Moldova 2 (1080p)
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Индия 2
+https://fs.uplink.kz/india/index.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KinoTV.ru@SD",КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="Kino1.ru@International" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="Movies",Кино 1 International [Not 24/7]
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (4)
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премьер
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:0 tvg-rec="3",Индия
+#EXTGRP:кино
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/1001/index.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic (2)
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal planet
+http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery (3)
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geograhci
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:0 tvg-rec="3",История orig
+#EXTGRP:HD Orig
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/9315/index.m3u8
+#EXTINF:0 tvg-rec="3",Тайны Галактики HD
+#EXTGRP:HD
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/5045/index.m3u8
+#EXTINF:0 tvg-rec="3",Охота и рыбалка orig
+#EXTGRP:HD Orig
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/9284/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Кухня (3)
+http://stream.mcquack.net/179/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Spor Yildiz HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2145/index.m3u8
+#EXTINF:0 tvg-rec="3",A Haber TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2259/index.m3u8
+#EXTINF:0 tvg-rec="3",A2 TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2260/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2261/index.m3u8
+#EXTINF:0 tvg-rec="3",Minika Go HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2266/index.m3u8
+#EXTINF:0 tvg-rec="3",NR1 Turk HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2267/index.m3u8
+#EXTINF:0 tvg-rec="3",Star TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2274/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Turk HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2281/index.m3u8
+#EXTINF:0 tvg-rec="3",TV8 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2286/index.m3u8
+#EXTINF:0 tvg-rec="3",DMAX FHD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2290/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 1 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2293/index.m3u8
+#EXTINF:0 tvg-rec="3",A Haber HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2294/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2296/index.m3u8
+#EXTINF:0 tvg-rec="3",Power HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2297/index.m3u8
+#EXTINF:0 tvg-rec="3",Power Turk HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2298/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2299/index.m3u8
+#EXTINF:0 tvg-rec="3",DMAX HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2300/index.m3u8
+#EXTINF:0 tvg-rec="3",Star TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2301/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2302/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal D TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2304/index.m3u8
+#EXTINF:0 tvg-rec="3",CNN Turk HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2305/index.m3u8
+#EXTINF:0 tvg-rec="3",Teve2 FHD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2306/index.m3u8
+#EXTINF:0 tvg-rec="3",Show TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2307/index.m3u8
+#EXTINF:0 tvg-rec="3",Haber Turk FHD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2308/index.m3u8
+#EXTINF:0 tvg-rec="3",NOW HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2309/index.m3u8
+#EXTINF:0 tvg-rec="3",Beyaz TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2310/index.m3u8
+#EXTINF:0 tvg-rec="3",Ulke TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2311/index.m3u8
+#EXTINF:0 tvg-rec="3",Bloomberg HT TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2317/index.m3u8
+#EXTINF:0 tvg-rec="3",24 TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2319/index.m3u8
+#EXTINF:0 tvg-rec="3",360 TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2320/index.m3u8
+#EXTINF:0 tvg-rec="3",TV4 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2321/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal D HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2326/index.m3u8
+#EXTINF:0 tvg-rec="3",TV100 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/2328/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 3 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6743/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 1 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6744/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 2 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6745/index.m3u8
+#EXTINF:0 tvg-rec="3",TV5 TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6751/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 41 TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6752/index.m3u8
+#EXTINF:0 tvg-rec="3",TV4 TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6753/index.m3u8
+#EXTINF:0 tvg-rec="3",Line TV Bursa TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6759/index.m3u8
+#EXTINF:0 tvg-rec="3",Kibris Genc TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6762/index.m3u8
+#EXTINF:0 tvg-rec="3",Kardelen TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6763/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal Avrupa TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6766/index.m3u8
+#EXTINF:0 tvg-rec="3",ER TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6768/index.m3u8
+#EXTINF:0 tvg-rec="3",Ciftci TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6772/index.m3u8
+#EXTINF:0 tvg-rec="3",BRTV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6776/index.m3u8
+#EXTINF:0 tvg-rec="3",AS TV Bursa TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6777/index.m3u8
+#EXTINF:0 tvg-rec="3",Anadolu Dernek TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6778/index.m3u8
+#EXTINF:0 tvg-rec="3",Akit TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6780/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6781/index.m3u8
+#EXTINF:0 tvg-rec="3",TV Kayseri TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6786/index.m3u8
+#EXTINF:0 tvg-rec="3",Yaban HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6787/index.m3u8
+#EXTINF:0 tvg-rec="3",FM TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6789/index.m3u8
+#EXTINF:0 tvg-rec="3",Lalegul TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6790/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 2000 TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6791/index.m3u8
+#EXTINF:0 tvg-rec="3",Meltem TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6792/index.m3u8
+#EXTINF:0 tvg-rec="3",Dost TV TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6793/index.m3u8
+#EXTINF:0 tvg-rec="3",TGRT Haber HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6796/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Turk TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6798/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Avaz TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6799/index.m3u8
+#EXTINF:0 tvg-rec="3",DiziSmart Premium HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6802/index.m3u8
+#EXTINF:0 tvg-rec="3",Sinema TV HD TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6806/index.m3u8
+#EXTINF:0 tvg-rec="3",Movie Smart Turk TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6807/index.m3u8
+#EXTINF:0 tvg-rec="3",Sinema Aksiyon 2 TR
+#EXTGRP:türk
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6812/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series 2 HD TR
